@@ -10,7 +10,11 @@ body * {
   width: 100%
 }
 
-.mobile{
+.mobile {
+  display: none;
+}
+
+.tablet {
   display: none;
 }
 

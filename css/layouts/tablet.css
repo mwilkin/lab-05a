@@ -1,9 +1,9 @@
 body {
-  max-width: 480px;
+  max-width: 979px;
 }
 
 body * {
-  background-color: yellowgreen;
+  background-color: firebrick;
 }
 
 .container {
@@ -14,8 +14,8 @@ body * {
   display: none;
 }
 
-.tablet{
-  display: none;
+.mobile {
+  display: none; 
 }
 
 .nav {
