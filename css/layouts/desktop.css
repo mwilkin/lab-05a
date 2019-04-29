@@ -15,6 +15,10 @@ body * {
   height: 100px;
 }
 
+.mobile{
+  display: none;
+}
+
 .subNav {
   width: 20.8333%;  /* 200 / 960 = .208333333 = 20.8333% */ 
   height: 600px;
